@@ -8,7 +8,7 @@ Hey there, I'm Vladyslav!
 </h1>
 
 </div>
-- 🙋‍♂️ All about me is at <a href="https://svitly4nyi-vla2yslav.github.io/My-Portfolio/"> My Website </a>
+- 🙋‍♂️ All about me is at <a href="https://main--vladyslav-svitlychnyi-portfolio.netlify.app/"> My Website </a>
 <br>
 <br>
 
