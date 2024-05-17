@@ -15,7 +15,7 @@ Hey there, I'm Vladyslav!
 <img align="center" src="./assets/code (1).gif" width="380" height="220"/><br>
 
 🌐 **Languages** :
-Ukrainian - native | Germany - B1/A2
+Ukrainian - native | Germany - B1
 
 💻 Tech Stacks and 💻 Tools
 
