@@ -49,11 +49,6 @@ A passionate Full Stack Developer and language enthusiast striving to make an im
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</div>
 
 ---
 
