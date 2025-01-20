@@ -65,7 +65,7 @@ A passionate Full Stack Developer and language enthusiast striving to make an im
 ---
 
 ### 📫 Let's Connect!
-- 💼 LinkedIn: [Vladyslav Svitlychnyi](https://linkedin.com/in/YourLinkedInProfile)
+- 💼 LinkedIn: [Vladyslav Svitlychnyi](https://www.linkedin.com/in/vladyslav-svitlychnyi/)
 - 📧 Email: [svetli4nuyvla2islav@gmail.com](mailto:svetli4nuyvla2islav@gmail.com)
 - 💻 GitHub: [https://github.com/Svitly4nyi-Vla2yslav](https://github.com/Svitly4nyi-Vla2yslav)
 
