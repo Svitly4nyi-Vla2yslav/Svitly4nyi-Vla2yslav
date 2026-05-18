@@ -17,7 +17,7 @@ A passionate Full Stack Developer and language enthusiast striving to make an im
 
 ### 🙋‍♂️ About Me
 - 🔗 Check out my **[Portfolio Website](https://main--vladyslav-svitlychnyi-portfolio.netlify.app/)** for more about me and my projects.
-- 🌍 I speak **Ukrainian (native)** and **German (B1)**.  
+- 🌍 I speak **Ukrainian (native)** and **German (B2)**.  
 - 🧠 Currently improving my skills in **TypeScript, React, and Next.js**.
 - 🌟 Open to **collaboration** and **freelance opportunities**.  
 
